@@ -1,8 +1,8 @@
 # Abstract
-Brain tumors are growths of cells in the brain that grow in an abnormal, uncontrollable way. If they are not detected and treated early, they can turn into a form of cancer that is fatal. Diagnosing and classifying brain tumors is essential to treat brain cancer. This research introduced a system for the automatic classification of brain tumors using convolutional neural networks, a class of deep learning neural networks, and some of the most effective deep learning techniques, such as data augmentation, hyperparameter tuning, and transfer learning.
+Brain tumors are growths of cells in the brain that grow in an abnormal, uncontrollable way. If they are not detected and treated early, they can turn into a form of cancer that is fatal. Diagnosing and classifying brain tumors is essential to treat brain cancer. This research introduced a system for the automatic classification of brain tumors using convolutional neural networks, a class of deep learning neural networks, and some of the most effective deep learning techniques, such as data augmentation, hyperparameter tuning, and transfer learning. Our research aims to develop a detection and classification system for some of the most common brain tumors, including gliomas, meningiomas, and pituitary tumors.
 
 # Dataset
-We utilized the CCO: Public Domain-licensed Kaggle Brain Tumor MRI dataset. There is a total of 7023 MRIs, which are separated into four categories: pituitary, meningioma, glioma, and no tumor. The MRI sequences included in this data set are a combination of T1-weighted, T2-weighted, and Fluid Attenuated Inversion Recovery (FLAIR) sequences.
+We utilized the CCO: Public Domain-licensed Kaggle [Brain Tumor MRI dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). There is a total of 7023 MRIs, which are separated into four categories: pituitary, meningioma, glioma, and no tumor. The MRI sequences included in this data set are a combination of T1-weighted, T2-weighted, and Fluid Attenuated Inversion Recovery (FLAIR) sequences.
 - Glioma - 1621 samples
 - meningioma - 1645 samples
 - No tumor - 2000 samples
